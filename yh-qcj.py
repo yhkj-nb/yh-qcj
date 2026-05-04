@@ -16,6 +16,7 @@ __plugin_meta__ = {
     'description': '前置插件：统一加载 config/ 所有 YAML 配置，自动生成加载日志',
     'version': '1.0.0',
     'github': 'https://github.com/yhkj-nb/yh-qcj/'
+}
 
 
 class ConfigLoader:
